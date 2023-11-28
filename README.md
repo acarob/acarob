@@ -8,8 +8,10 @@ I have experience working with HTML, CSS, Bulma, Node.js, React, Redux, among ot
 
 ### Which technologies do I have a knowledge in?
 * JavaScript.
-* React.js.
-* Redux.
+* React.
+* Cypress.
+* Postman.
+* Selenium.
 * CSS.
 * HTML.
 * Bulma.
